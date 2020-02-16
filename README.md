@@ -63,13 +63,13 @@ el resultado que hemos definido como el esperado.
 
 Ejecutamos la prueba:
 
-![img](https://imgur.com/a/2vqk74A)
+![img](https://imgur.com/a/2vqk74A.png)
 
 Podemos observar que la prueba es positiva, en caso de que el resultado no sea el
 esperado (p. ej: cambiamos el resultado esperado a 11.0 para forzar el error) 
 nos mostrará que la prueba ha sido negativa de la siguiente manera:
 
-![img](https://imgur.com/a/8LdRrDg)
+![img](https://imgur.com/a/8LdRrDg.png)
 
 En el resultado de ejecución de la prueba podemos leer que nuestra expectativa era
 que devolviese 11.0, pero el método a devuelto 15.5, por lop tanto el test da resultado
@@ -131,4 +131,4 @@ public class CalculadoraTest {
 
 **Resultados:**
 
-![img](https://imgur.com/a/HBQmdGI)
+![img](https://imgur.com/a/HBQmdGI.png)
