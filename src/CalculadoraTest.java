@@ -1,5 +1,4 @@
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 public class CalculadoraTest {
@@ -14,7 +13,6 @@ public class CalculadoraTest {
 
         assertEquals(resultEsperado, result, 1e-8);
     }
-
 
     @Test
     public void resta() {
@@ -48,6 +46,5 @@ public class CalculadoraTest {
 
         assertEquals(resultEsperado, result, 1e-20);
     }
-
 
 }

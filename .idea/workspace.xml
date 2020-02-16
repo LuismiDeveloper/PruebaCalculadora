@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8469cc95-b42e-45cc-bc9a-59aca910c39e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PruebaCalculadora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PruebaCalculadora/Calculadora.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PruebaCalculadora/CalculadoraTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/PruebaCalculadora/META-INF/PruebaCalculadora.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PruebaCalculadora/CalculadoraTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PruebaCalculadora/CalculadoraTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadoraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,22 +92,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="436" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581775499433" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581773857654">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581853931071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581773857654" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581773857653">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581853931071" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581853931071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581773857653" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581773857653">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581853931071" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581853931071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581773857653" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581773857653">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581853931071" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581853931071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581773857653" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581853931071" />
     <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581768511919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
